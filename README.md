@@ -1,0 +1,14 @@
+-> # Hangman2
+-> Two player game
+-> This is also an owesome game.
+-> Here you can compete with your partener.
+-> You can have as many rounds as you want.
+-> At each round your score is added and updated.
+-> For winner +1 and loser -1 , it makes the game more interesting.
+-> At each round one player has to give a word to another player and a hint(optional) and also
+he will have to set maximum no. of incorrect guesses by oppossition.
+->Once one player will be completed then another player will a word and first player will have to guess.
+->Each player will have a hint by another player + the game itself.
+->Status and your progress will be visible to you at each step.
+->After completion of all rounds the winner will be declared based on his/her score.Also the scores of both players will be displayed.
+->Scores can be negative also so be careful.
